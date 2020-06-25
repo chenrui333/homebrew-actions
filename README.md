@@ -7,3 +7,7 @@
 - `cancel-previous-runs`
 
   An action that cancels all previous uncompleted workflow runs for given branch.
+
+- `brew-script`
+
+  An action that runs given Ruby script in Homebrew environment, via `brew ruby` command.
